@@ -1,0 +1,4 @@
+
+public enum EnemyType {
+	GRUNT, GIANT, BATALLION, SCOUT, BASHER, ARCHER, ARMY
+}	
